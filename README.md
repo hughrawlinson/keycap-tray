@@ -5,8 +5,8 @@ organized into a grid, where the number of rows and columns are parameters. Uses
 [Vector76's Gridfinity library][vector76-lib] to render the tray inside an
 appropriately sized Gridfinity container.
 
-Consider giving this project a like on Printables, and sharing your make there
-if you build it.
+Consider giving this project [a like on Printables][printables], and sharing
+your make there if you build it.
 
 ![3d printed 3x5 keycap tray for Gridfinity](./images/printed.jpg)
 
@@ -55,3 +55,4 @@ OpenSCAD](./images/KeycapTray_Gridfinity_5x5.png)
 [STL](./KeycapTray_Gridfinity_5x5.stl)
 
 [vector76-lib]: https://github.com/vector76/gridfinity_openscad
+[printables]: https://www.printables.com/model/632576-gridfinity-keycap-tray
